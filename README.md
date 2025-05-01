@@ -7,3 +7,5 @@ Create new wallets in menu (current wallets are examples/ delete),
 Fund wallets,
 choose Dev wallet,
 Create token and bundle
+
+For examples visit: https://youtu.be/18ql_SN6Va8?si=u1a5RkDZ-8S1MoYC
