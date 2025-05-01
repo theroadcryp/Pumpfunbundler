@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.3",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "formdata-node": "^6.0.3",
+    "fs": "^0.0.1-security",
+    "inquirer": "^10.2.2",
+    "node-fetch": "^3.3.2",
+    "ora": "^8.1.0",
+    "winston": "^3.14.2"
+  },
+  "name": "pump_bundler",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

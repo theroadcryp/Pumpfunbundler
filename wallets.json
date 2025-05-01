@@ -1,0 +1,35 @@
+{
+  "wallets": [
+    {
+      "publicKey": "GoUyddX.....",
+      "privateKey": "4Tjx1mD2kCCQbMnKgAFN7Ae....",
+      "isDevWallet": true,
+      "createdAt": "2024-12-27T17:53:59.737Z",
+      "isFundingWallet": true,
+      "devBuyAmountInSOL": 0.001
+    },
+    {
+      "publicKey": "2N5MGdTcpc7P5JGwDFNVW6v.....",
+      "privateKey": "2ob......qZGu",
+      "createdAt": "2024-12-27T17:53:59.724Z",
+      "isFundingWallet": true,
+      "devBuyAmountInSOL": 0.001
+    },
+    {
+      "publicKey": "5htG9HCrBuj6dNnzbh2K......",
+      "privateKey": "2uvmZT3dyGSxmeLYqVFuZkd3xiNyXcZb........",
+      "createdAt": "2024-12-27T17:53:59.734Z"
+    },
+    {
+      "publicKey": "HegwdBMgxgzxDFmew.......",
+      "privateKey": "66j7AA3u5pcmYhWit2qgTzLeUYqmP.........",
+      "createdAt": "2024-12-27T17:53:59.735Z"
+    },
+    {
+      "publicKey": "7faEi1Rpn4FoQoK4891vv........",
+      "privateKey": "5jpNkg1SmJvrXpubXVUL9QsjKriaLKEQp........",
+      "createdAt": "2024-12-27T17:53:59.736Z"
+    }
+  ],
+  "mintAddress": "DAn5GxtSuzkw1M8........"
+}
